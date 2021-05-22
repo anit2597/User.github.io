@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+body{
+	background:linear-gradient(to right,blue,red,green,white);
+	margin-top:8% limportent;
+	
+}
+.reg-right{
+	border: none;
+	background:white;
+	background:linear-gradient(to right,red,green,yellow,pink );
+	border-top-left-radius:10% 50%;
+	border-bottam-left-radius:20% 50%;
+	pandding-top:2%;
+	
+	
+	
+}
+#but{
+	color:white;
+	background:blue;
+	border-top-left-radius:10% 50%;
+	border-bottam-left-radius:20% 50%;
+	
+	
+}
+#a{
+	background:linear-gradient(to right,blue,red,green,white);
+	margin-top:8% limportent;
+}
+#b{
+	background:linear-gradient(to right,blue,red,green,white);
+	margin-top:8% limportent;
+	border-radius:10%;
+	width:200px;
+}
